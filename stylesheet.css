@@ -1,0 +1,9 @@
+/* Dice: compact dialog for the large die */
+
+.dice-dialog {
+    width: 280px;
+}
+
+.dice-dialog .modal-dialog-content-box {
+    padding-top: 0;
+}

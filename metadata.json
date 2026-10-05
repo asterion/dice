@@ -1,0 +1,10 @@
+{
+  "uuid": "dice@asterion",
+  "name": "Dice",
+  "description": "A die in the top panel. It starts on a random number; click it to roll it in a dialog that shows the die at a large size.",
+  "gettext-domain": "dice@asterion",
+  "version": 1,
+  "shell-version": [
+    "50"
+  ]
+}

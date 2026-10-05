@@ -4,9 +4,14 @@ A GNOME Shell extension that puts a die in the top panel. Click it to roll it
 and see the result at a large size. Handy for board games, picking who goes
 first or making a quick decision.
 
+![The dialog with the die showing a two](examples/open.png)
+
 ## How it works
 
-- The die sits in the top panel and starts on a random number from 1 to 6.
+- The die sits in the top panel and starts on a random number from 1 to 6:
+
+  ![The die in the top panel](examples/panel.png)
+
 - Click it and a dialog opens with the die at a large size. It tumbles through
   a few faces and lands on a random number.
 - In the dialog:
